@@ -1,2 +1,2 @@
 # Azure
-Azure code, references, snippets from on the job experience.
+Notes and thoughts on [Azure](https://azure.microsoft.com)
